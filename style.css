@@ -1,8 +1,13 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
+    margin:10px;
+}
+h3{
+    font-family: bold;
 }
 .nh{
     color: orange;
@@ -19,4 +24,11 @@ h1{
 }
 p{
     font-family: bold;
+}
+.topbn{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
